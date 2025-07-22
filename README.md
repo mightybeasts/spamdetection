@@ -38,14 +38,7 @@ We preprocess the email text, extract features using vectorizers, and classify m
 
 ---
 
-## 📸 Sample Output
 
-- Confusion matrix heatmap  
-- ROC curve with AUC  
-- Final prediction with confidence  
-- GridSearchCV for best parameters
-
----
 
 ## 👨‍💻 Author
 
